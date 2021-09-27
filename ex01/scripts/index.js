@@ -11,7 +11,7 @@ var modal = [
     document.getElementById("myModal8"),
     document.getElementById("myModal9"),
     document.getElementById("myModal10")
-]
+];
 
 var modalBtn = [
     document.getElementById("img1"),
@@ -24,7 +24,7 @@ var modalBtn = [
     document.getElementById("img8"),
     document.getElementById("img9"),
     document.getElementById("img10")
-]
+];
 
 modalBtn[0].addEventListener("click", openModalMarathon);
 modalBtn[1].addEventListener("click", openModalGym);
